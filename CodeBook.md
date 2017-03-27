@@ -1,6 +1,12 @@
 # Code book include data which indicates all the variables and summaries calculated along with units, and any other relevant information
 
 
+The original dataset was from "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones", 
+The experiments recorded 30 volunteer's six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) using a Samsung Galaxy S II smart phone.  
+
+The tidy_data.txt file contains 30 subject 6 activitiies gyro and accel output means.  Detailed list are shown below. 
+
+Readme.md described the data process steps.  
 
 
 
